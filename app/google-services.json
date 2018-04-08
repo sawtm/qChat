@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799052166314",
+    "firebase_url": "https://chat-9e4ab.firebaseio.com",
+    "project_id": "chat-9e4ab",
+    "storage_bucket": "chat-9e4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799052166314:android:99d6312b126e7dc6",
+        "android_client_info": {
+          "package_name": "com.chandansaw.qchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799052166314-vm7qeq3irc6q7bhcm4ru10d2r8tepcns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandansaw.qchat",
+            "certificate_hash": "ae55b04ca8b31f333f90f8d121f2eb3857dbb030"
+          }
+        },
+        {
+          "client_id": "799052166314-9gkd4psntsk7f3j278lmuh2g0bk60mtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIpnPZpzgwhAVoQAKFjVOczPzATkxu5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799052166314-9gkd4psntsk7f3j278lmuh2g0bk60mtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
